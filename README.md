@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Aziz Saadana 👋
+
+🦀 I’m currently learning Rust and NextJs
 
 <!--
 **DAGGE3R/DAGGE3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
