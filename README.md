@@ -1,6 +1,4 @@
-### Hi there, I'm Aziz Saadana 👋
-
-- 🌱 I’m currently learning NextJs and Rust 
+### Hi there, I'm Aziz Saadana 👋 
 
 
 <!--
