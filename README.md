@@ -1,5 +1,5 @@
 ### Hi there, I'm Aziz Saadana 👋 
-
+- 🌱 I’m currently learning Nextjs
 
 <!--
 **DAGGE3R/DAGGE3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
