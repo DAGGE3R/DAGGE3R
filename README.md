@@ -22,7 +22,7 @@ I am currently working on developing a complex Next.js web application with a wi
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/aziz-saadana) 
-- [Email](contact@azizsaadana.codes
+- [Email](contact@azizsaadana.codes)
 
 ## 🌱 Learning & Growth
 Always looking to improve and stay up-to-date with the latest in web development. Currently exploring [insert new technology or topic here].
