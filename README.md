@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aziz Saadana, a passionate software developer specializing in building high-quality web applications. My expertise lies in creating scalable and performant solutions using modern web technologies.
+I'm Aziz Saadana, a passionate software engineer specializing in building high-quality web applications. My expertise lies in creating scalable and performant solutions using modern web technologies.
 
 ## 🛠️ Technologies & Tools
 
