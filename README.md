@@ -1,28 +1,41 @@
-# Hi there 👋
+# Aziz Saadana
 
-I'm Aziz Saadana, a passionate software engineer specializing in building high-quality web applications. My expertise lies in creating scalable and performant solutions using modern web technologies.
+Software Engineer with 3+ years of experience building scalable, production-grade web applications. Specialized in full-stack development with a focus on performance, maintainability, and modern engineering practices.
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-### **Frontend Development**
-- **Next.js**: Powerful framework for building server-rendered React applications.
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
-- **JavaScript (ES6+)**: The language of the web, used to create interactive and dynamic user experiences.
-- **TypeScript**: Strongly-typed JavaScript that enhances development efficiency and code quality.
+**Frontend**  
+Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS
 
-### **Backend & API Development**
-- RESTful API design and implementation.
-- Integration with third-party APIs.
+**Backend**  
+FastAPI, Python, RESTful API design, database architecture
 
-### **Version Control**
-- **Git & GitHub**: For source control and collaboration.
+**Development**  
+Git/GitHub, CI/CD pipelines, test-driven development, performance optimization
 
-## 🚀 My Current Focus
-I am currently working on developing a complex Next.js web application with a wide range of features, emphasizing quality and performance. My goal is to create software that not only meets but exceeds user expectations.
+## Expertise
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/aziz-saadana) 
-- [Email](contact@azizsaadana.codes)
+I build end-to-end web solutions with emphasis on:
+- Type-safe, scalable applications using TypeScript and Next.js
+- High-performance APIs with FastAPI and Python
+- Server-side rendering and static site generation
+- Clean architecture and maintainable codebases
+- Seamless third-party service integration
+- Responsive, accessible user interfaces
 
-## 🌱 Learning & Growth
-Always looking to improve and stay up-to-date with the latest in web development. Currently exploring Swift, Django and Rust.
+## Approach
+
+Strong believer in writing clean, well-documented code that scales. I prioritize performance optimization, proper testing, and following industry best practices to deliver solutions that meet both user needs and technical requirements.
+
+## Currently Learning
+
+Expanding my expertise with Swift, Django, and Rust to broaden development capabilities across different ecosystems.
+
+## Connect
+
+**LinkedIn**: [linkedin.com/in/aziz-saadana](https://www.linkedin.com/in/aziz-saadana)  
+**Email**: contact@azizsaadana.codes
+
+---
+
+*Open to collaboration and consulting opportunities on challenging technical projects*
