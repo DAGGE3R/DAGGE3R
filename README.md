@@ -1,41 +1,32 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa3a7a61-96c9-4f31-89fa-400594fe2d60" alt="Aziz Saadana - Forward Deployed AI Engineer" />
+</p>
+
 # Aziz Saadana
 
-Software Engineer with 5+ years of experience building scalable, production-grade web applications. Specialized in full-stack development with a focus on performance, maintainability, and modern engineering practices.
+Forward Deployed AI Engineer building production AI systems, agents, and tools that solve real-world problems.
 
-## Tech Stack
+I work across product, engineering, and client-facing delivery, turning operational needs into reliable AI workflows. My focus is full-stack AI products, document and tool pipelines, retrieval systems, observability, and secure systems for sensitive domains.
 
-**Frontend**  
-Next.js, React, TypeScript, JavaScript (ES6+), Tailwind CSS
+Currently working on AI systems for pharma and regulated workflows.
 
-**Backend**  
-FastAPI, Python, RESTful API design, database architecture
+## Focus
 
-**Development**  
-Git/GitHub, CI/CD pipelines, test-driven development, performance optimization
+- Production AI agents and workflows
+- Full-stack AI products with Next.js, Django, FastAPI, and ElysiaJS
+- Retrieval, semantic search, document pipelines, and evaluation systems
+- Cloudflare, AWS, PostgreSQL, Redis, Qdrant, Docker, Kubernetes
+- Client-facing product engineering and technical delivery
 
-## Expertise
+## Recent Work
 
-I build end-to-end web solutions with emphasis on:
-- Type-safe, scalable applications using TypeScript and Next.js
-- High-performance APIs with FastAPI and Python
-- Server-side rendering and static site generation
-- Clean architecture and maintainable codebases
-- Seamless third-party service integration
-- Responsive, accessible user interfaces
+- Senior Full-Stack Engineer (AI) at p.AI
+- Senior FullStack Engineer (AI) at Nexilan
+- Full-Stack Engineer at AxeGenAI
 
-## Approach
+## Links
 
-Strong believer in writing clean, well-documented code that scales. I prioritize performance optimization, proper testing, and following industry best practices to deliver solutions that meet both user needs and technical requirements.
+- Portfolio: https://azizsaadana.dev
+- LinkedIn: https://www.linkedin.com/in/aziz-saadana
+- GitHub: https://github.com/DAGGE3R
 
-## Currently Learning
-
-Expanding my expertise with Swift, Django, and Rust to broaden development capabilities across different ecosystems.
-
-## Connect
-
-**LinkedIn**: [linkedin.com/in/aziz-saadana](https://www.linkedin.com/in/aziz-saadana)  
-**Email**: contact@azizsaadana.codes
-
----
-
-*Open to collaboration and consulting opportunities on challenging technical projects*
