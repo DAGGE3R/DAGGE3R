@@ -1,6 +1,6 @@
 # Aziz Saadana
 
-Software Engineer with 4+ years of experience building scalable, production-grade web applications. Specialized in full-stack development with a focus on performance, maintainability, and modern engineering practices.
+Software Engineer with 5+ years of experience building scalable, production-grade web applications. Specialized in full-stack development with a focus on performance, maintainability, and modern engineering practices.
 
 ## Tech Stack
 
