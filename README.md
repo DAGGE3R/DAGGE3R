@@ -5,7 +5,7 @@
   />
 </p>
 
-**Forward Deployed AI Engineer** with 5+ years of experience building production AI systems, agents, and full-stack tools for real-world workflows.
+**Full-Stack AI Engineer** with 5+ years of experience building production AI systems, agents, and full-stack tools for real-world workflows.
 ## Links
 
 [Portfolio](https://azizsaadana.dev) · [LinkedIn](https://www.linkedin.com/in/aziz-saadana) · [GitHub](https://github.com/DAGGE3R)
